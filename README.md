@@ -1,7 +1,7 @@
 # EX7 - IMPLEMENT DES ENCRYPTION AND DECRYPTION
 
 ## AIM :
-To Implement the  Data encryption standard algorithm (DES) using program.
+To Implement data Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 ## ALGORITHM : 
 ### STEP-1 :
 Read the 64-bit plain text.
@@ -86,4 +86,4 @@ int main()
 ![image](https://github.com/user-attachments/assets/62d76d50-c7bc-4537-a0cc-cf5c4328020c)
 
 ## RESULT :
-The program to implement data encryption standard algorithm (DES) had been implemented successfully.
+The program to implement the  Data Encryption Standard (AES) Algorithm for a practical application like URL Encryption is executed successfully.
