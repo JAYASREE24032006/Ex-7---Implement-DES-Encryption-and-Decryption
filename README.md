@@ -1,4 +1,4 @@
-# EX7 - IMPLEMENT DES ENCRYPTION AND DECRYPTION
+# EX7 - DATA ENCRYPTION STANDARD(DES)
 
 ## AIM :
 To Implement data Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
