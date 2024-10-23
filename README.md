@@ -2,6 +2,8 @@
 
 ## AIM :
 To Implement data Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
+## THEORM :
+Data Encryption Standard (DES) is a symmetric-key algorithm used for the encryption of digital data. Developed by IBM in the 1970s, it encrypts data in 64-bit blocks using a 56-bit key. Although once widely used, DES is now considered insecure due to advances in computing power.
 ## ALGORITHM : 
 ### STEP-1 :
 Read the 64-bit plain text.
